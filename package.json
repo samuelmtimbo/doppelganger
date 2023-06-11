@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "crossenv": "^0.0.2-security",
+    "dotenv": "^16.1.4",
+    "get-root-path": "^2.0.2",
+    "global": "4.4.0",
+    "playwright": "^1.35.0",
+    "prettier": "2.8.8",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-firefox": "^0.5.1",
+    "typescript": "5.1.3"
+  },
+  "scripts": {
+    "start": "ts-node -T src/index.ts",
+    "play": "ts-node -T src/playwright.ts"
+  }
+}

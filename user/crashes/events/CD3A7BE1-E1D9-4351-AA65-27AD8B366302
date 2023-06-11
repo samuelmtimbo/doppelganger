@@ -1,0 +1,32 @@
+crash.main.2
+1686451898
+CD3A7BE1-E1D9-4351-AA65-27AD8B366302
+AdapterDeviceID=0x6810
+AdapterVendorID=0x1002
+BuildID=20190201165609
+ContentSandboxCapable=1
+ContentSandboxLevel=3
+DOMIPCEnabled=1
+FramePoisonBase=9223372036600930304
+FramePoisonSize=4096
+InstallTime=1686451849
+Notes=FP(D00-L1000-W00000000-T000) WR? WR- OMTP? OMTP+4 
+ProductID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+ProductName=Firefox
+ReleaseChannel=default
+SafeMode=0
+ServerURL=https://crash-reports.mozilla.com/submit?id={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&version=65.0&buildid=20190201165609
+StartupCrash=0
+StartupTime=1686451897
+TelemetryEnvironment={"build":{"applicationId":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","applicationName":"Firefox","architecture":"x86-64","buildId":"20190201165609","version":"65.0","vendor":"Mozilla","displayVersion":"65.0b13","platformVersion":"65.0","xpcomAbi":"x86_64-gcc3","updaterAvailable":true},"partner":{"distributionId":null,"distributionVersion":null,"partnerId":null,"distributor":null,"distributorChannel":null,"partnerNames":[]},"system":{"memoryMB":16384,"virtualMaxMB":null,"cpu":{"count":10,"cores":10,"vendor":null,"family":6,"model":null,"stepping":null,"l2cacheKB":4096,"l3cacheKB":null,"speedMHz":2400,"extensions":["hasMMX","hasSSE","hasSSE2","hasSSE3","hasSSSE3","hasSSE4_1","hasSSE4_2","hasAES"]},"os":{"name":"Darwin","version":"22.4.0","locale":"en-BR"},"hdd":{"profile":{"model":null,"revision":null},"binary":{"model":null,"revision":null},"system":{"model":null,"revision":null}},"gfx":{"D2DEnabled":null,"DWriteEnabled":null,"ContentBackend":"Skia","adapters":[{"description":null,"vendorID":"0x1002","deviceID":"0x6810","subsysID":null,"RAM":null,"driver":null,"driverVersion":null,"driverDate":null,"GPUActive":true}],"monitors":[{"screenWidth":1512,"screenHeight":982,"scale":2},{"screenWidth":1920,"screenHeight":1080,"scale":1}],"features":{"compositor":"none","gpuProcess":{"status":"unused"},"wrQualified":{"status":"blocked"},"webrender":{"status":"blocked"}}},"appleModelId":"MacBookPro18,3"},"settings":{"blocklistEnabled":true,"e10sEnabled":true,"e10sMultiProcesses":4,"telemetryEnabled":true,"locale":"en-US","update":{"channel":"default","enabled":true},"userPrefs":{"app.update.service.enabled":false,"browser.newtabpage.enabled":false,"browser.shell.checkDefaultBrowser":false,"browser.search.widget.inNavBar":false,"browser.startup.homepage":"<user-set>","toolkit.cosmeticAnimations.enabled":false,"browser.urlbar.suggest.searches":false,"dom.max_script_run_time":0,"extensions.autoDisableScopes":0,"extensions.enabledScopes":5,"extensions.update.enabled":false,"extensions.screenshots.disabled":true,"general.config.filename":"<set>"},"sandbox":{"effectiveContentProcessLevel":3},"addonCompatibilityCheckEnabled":true,"isDefaultBrowser":null},"profile":{}}
+Vendor=Mozilla
+Version=65.0
+useragent_locale=en-US
+TelemetrySessionId=f9fe5207-9f11-1447-964b-9b22bb9a368b
+CrashTime=1686451898
+UptimeTS=.596
+SecondsSinceLastCrash=15
+EventLoopNestingLevel=1
+ThreadIdNameMapping=8:"Gecko_IOThread",8:"JS Watchdog",9:"JS Helper",10:"JS Helper",11:"JS Helper",12:"JS Helper",14:"JS Helper",13:"JS Helper",15:"JS Helper",16:"JS Helper",17:"Timer",18:"Socket Thread",20:"Cache2 I/O",21:"Cookie",23:"GMPThread",24:"Worker Launcher",25:"Compositor",26:"ImgDecoder #1",27:"ImageIO",28:"IPDL Background",31:"DataStorage",33:"DOM Worker",33:"StreamTrans #17",44:"StyleThread#0",47:"StyleThread#3",46:"StyleThread#2",48:"StyleThread#4",45:"StyleThread#1",49:"StyleThread#5",49:"StreamTrans #28",49:"StreamTrans #29",49:"StreamTrans #30",49:"StreamTrans #31",49:"StreamTrans #32",49:"StreamTrans #33",49:"StreamTrans #34",49:"StreamTrans #35",49:"StreamTrans #36",49:"StreamTrans #37",50:"StreamTrans #38",
+MinidumpSha256Hash=6d327ee63812577fe314606d53d4bcfc9ed06d08285fff5e15061f508b3dd9cf
+StackTraces={"crash_info":{"type":null},"modules":[],"status":"ERROR_NO_THREAD_LIST","threads":[]}
