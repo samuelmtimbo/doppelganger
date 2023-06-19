@@ -23,19 +23,9 @@ dist/**/*
 yarn-error.log
 
 .env
-
-public/index.js
-public/sw.js
-
-public/index.js.map
-public/sw.js.map
-
-src/client/static/js/index.js.ts
-
-src/client/extension/src/background.js
-src/client/extension/src/content.js
-src/client/extension/src/popup.js
-src/client/extension/src/options.js
-
 package-lock.json
 yarn.lock
+
+setup.json
+
+user/**/*
