@@ -3,15 +3,5 @@
     "app": "instagram",
     "username": "...",
     "password": "..."
-  },
-  {
-    "app": "onlyfans",
-    "username": "...",
-    "password": "..."
-  },
-  {
-    "app": "twitter",
-    "username": "...",
-    "password": "..."
   }
 ]
